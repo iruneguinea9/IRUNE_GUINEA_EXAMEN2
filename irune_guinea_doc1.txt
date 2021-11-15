@@ -1,1 +1,2 @@
 primer fichero
+Nueva linea en doc1
